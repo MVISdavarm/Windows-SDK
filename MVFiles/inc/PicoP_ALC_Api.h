@@ -11,8 +11,8 @@
 #define _PICOP_ALC_API_H_
 
 // include common MVIS data types
-#include "../../../interface/PicoP_Def.h"
-#include "../../../interface/PicoP_RC.h"
+#include "PicoP_Def.h"
+#include "PicoP_RC.h"
 
 #ifdef __cplusplus
 extern "C" {    
