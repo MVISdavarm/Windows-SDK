@@ -1,12 +1,14 @@
 # Windows-SDK
+```
 -------------------------------------------------------------------------------
-
-Setting up your project		[1]
-Sample app description		[2]
-
+```
+### Setting up your project		[1]
+### Sample app description		[2]
+```
 -------------------------------------------------------------------------------
-									[1]
-
+```
+### [1]					
+```
 Using Microvision's Windows SDK is done in a few easy steps.
 
 - Copy the MVFiles directory to the directory of your source files in your Windows project.
@@ -49,8 +51,9 @@ Using Microvision's Windows SDK is done in a few easy steps.
 	PicoP_TLC_Api_amd64.dll
 
 -------------------------------------------------------------------------------
-									[2]
-
+```
+### [2]
+```
 PhoenixViewer sample app
 
 PhoenixViewer is a Visual Studio 2015 application designed to show the minimum SDK
@@ -59,3 +62,4 @@ on a basic window written in C that merely displays the 3D data as a grey scale
 depth image. Comments in the code describe what is happening.
 
 -------------------------------------------------------------------------------
+```
